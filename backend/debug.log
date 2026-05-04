@@ -1,0 +1,6 @@
+Received data: {'desc': 'Test lunch', 'amount': 50, 'cat': 'food', 'date': '2026-05-03', 'mode': 'Cash', 'month': 'May'}
+Parsed: desc=Test lunch, amount=50, cat=food
+Added expense: {'id': 1, 'desc': 'Test lunch', 'amount': 50.0, 'cat': 'food', 'date': '2026-05-03', 'mode': 'Cash', 'month': 'May'}
+Received data: {'desc': 'Lunch', 'amount': 500, 'cat': 'food', 'date': '2026-05-03', 'mode': 'Cash', 'month': 'May'}
+Parsed: desc=Lunch, amount=500, cat=food
+Added expense: {'id': 2, 'desc': 'Lunch', 'amount': 500.0, 'cat': 'food', 'date': '2026-05-03', 'mode': 'Cash', 'month': 'May'}
